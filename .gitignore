@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+.venv/
+
+# Secrets
+.env
+.streamlit/secrets.toml
+
+# Local runtime data (your chats)
+data/history/*
+!data/history/.gitkeep
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store

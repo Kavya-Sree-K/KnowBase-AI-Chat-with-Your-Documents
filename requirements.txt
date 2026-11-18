@@ -1,0 +1,7 @@
+# --- needed to run the app ---
+streamlit>=1.32
+scikit-learn
+pypdf
+python-dotenv
+anthropic
+google-generativeai

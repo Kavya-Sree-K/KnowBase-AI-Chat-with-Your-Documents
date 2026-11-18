@@ -1,0 +1,4 @@
+# --- only needed to (re)build the PDF: python -m src.data_builder ---
+wikipedia
+arxiv>=2.0
+reportlab
